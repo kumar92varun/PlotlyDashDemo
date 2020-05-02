@@ -1,0 +1,63 @@
+Text,Positive Score,Negative Score,Neutral Score,Mixed Score,Weighted Average,Emotion Classification,,Emotion,Weightage
+"Food was good, but overall I am not satisfied with your serving team.",0.00031553,0.0049810312,0.0001829344,0.9945204854,65.95,Mixed Positive,,Positive,4
+"Very bad experience, won't recommend to anyone ever",8.94E-05,0.9995325804,0.000377559,4.63E-07,-77.73,Angry,,Negative,-3.5
+"Loved the food! Location is beautiful, I liked the neat and clean surroundings",0.9996334314,1.60E-05,0.0003482154,2.24E-06,88.86,Delighted,,Neutral,1
+"I hate you, like I love you",0.0973719284,0.1924415231,0.0142014865,0.6959850788,40.40,Mixed Positive,,Mixed,3
+I hated the experience,0.000198539,0.9955996275,0.004200893,8.82E-07,-77.32,Angry,,,
+"Not upto the mark, you could have done better",0.0202081744,0.9509612322,0.0271505937,0.0016800371,-71.45,Angry,,,
+"Service could have been better, overall satisfied with the food, hygeine and hospitality",0.0008549172,0.0002177364,4.76E-05,0.9988797307,66.65,Mixed Positive,,,
+I am afraid of ghosts. I can't sleep in night due to my fear of ghosts. Can you help me please?,0.0572743602,0.3070280552,0.5604628921,0.0752347633,-1.32,Mixed Negative,,Excited / Delighted,76 and above
+That boy is cute!,0.9986494184,6.09E-05,0.0012876138,2.08E-06,88.79,Delighted,,Happy,66 to 75
+"Decent service, decent staff",0.9996060729,1.80E-05,0.000343021,3.29E-05,88.86,Delighted,,Mixed Positive,26 to 65
+"I am John Baxter, the sheriff",0.0028230066,0.0003483967,0.9968277812,7.99E-07,22.38,Neutral,,Neutral,0 to 25
+"I like orange color, I don't like yellow or red. Neon is also a good color.",0.9830515385,0.0030450132,0.0133706341,0.0005328195,87.48,Happy,,Mixed Negative,-40 to 0
+Focus on the needs of your customers,0.09975302219,0.003130867844,8.97E-01,0.000003417298331,28.56,Mixed Positive,,Unhappy,-75 to -41
+"Sky is blue, water is colorless",0.7943174839,0.01993329078,0.1857380271,0.00001124896062,73.18,Happy,,Angry,-75 and lower
+I have a Nokia phone,0.01134652924,1.67E-03,0.9869785309,3.19E-06,22.81,Neutral,,,
+I am not too much scared of ghosts,0.5606064796,2.74E-02,0.4115413129,4.98E-04,56.88,Mixed Positive,,,
+I don't want to get old,0.0419921726,0.4666989744,0.4911666811,1.42E-04,-21.64,Mixed Negative,,,
+There are 3 vendors in our company,0.06807301193,0.001029986423,0.9308924675,0.000004595683549,26.66,Neutral,,,
+Temperature is not adequate in the room. It should be more cooler in here.,0.005000655074,0.9749708176,0.007733257953,0.01229530014,-74.40,Unhappy,,,
+I don't appreciate the untidiness in the room,0.001372827217,0.9863344431,0.01223616209,0.0000565003611,-76.32,Unhappy,,,
+I was expecting better answer to my question,0.002080597216,0.937024951,0.06088715419,0.00000729815838,-71.34,Unhappy,,,
+I knew a person in my earlier company who used to be very arrogant,0.0110480804,0.620840013,0.3680636287,0.00004828240344,-39.12,Mixed Negative,,,
+I am surprised to see how well she performed in her final exams,0.9083051085,0.001164405141,0.09052942693,0.000001013777478,82.66,Delighted,,,
+"Good service, good staff",0.999587357,0.0000307329683,0.0003731446341,0.000008726843589,88.86,Delighted,,,
+"Excellent service, excellent staff",0.9999009371,0.00001904695091,0.00007592428301,0.000004019494099,88.88,Delighted,,,
+"Worse service, worse staff",0.00005412004248,0.9996210337,0.000323788845,0.000001067374797,-77.74,Angry,,,
+I could not sustain the smell in the room,0.01316341199,0.9667075872,0.02012410387,0.000004873584658,-73.57,Angry,,,
+"Red is red, blue is blue, yellow is yellow",0.01488871407,0.1451071948,0.8399966359,0.000007507427199,8.70,Neutral,,,
+Tom Cruise has secret access to the fountain of youth,0.4101367891,0.06740377843,0.522428453,0.00003088073936,42.83,Mixed Positive,,,
+My bike needs proper servicing,0.02288922668,0.8662999868,0.1107221246,0.00008868570876,-62.88,Unhappy,,,
+I like to sit peacefully when it's raining,0.7439419627,0.01372334547,0.2423261851,0.000008442697435,70.45,Happy,,,
+I love italian food,0.9982401133,0.0000469657,0.0017107313,0.0000021886,88.77,Delighted,,,
+How are things in New York,0.0022090769,0.0084201563,0.9893689752,0.0000017114,21.53,Neutral,,,
+I feel better today ,,,,,0.00,,,,
+I dont look that bad,,,,,0.00,,,,
+Service industry needs improvment,,,,,0.00,,,,
+That bar serves really yummy food ,,,,,0.00,,,,
+I think they can do better ,,,,,0.00,,,,
+The service was just ok.. it could have been better.,,,,,0.00,,Johnathan,,
+The price of this house is too high for the location and area,,,,,0.00,,Johnathan,,
+I enjoyed the class overall.  The instructor could have went into greater detail,,,,,0.00,,Johnathan,,
+I waited for over two hours to see a doctor.  The information provided put my concerns at ease.,,,,,0.00,,Johnathan,,
+Kevin Love had a bad night with only 3 points,,,,,0.00,,Johnathan,,
+What is your brand value?  It isnt clear to me.,,,,,0.00,,Johnathan,,
+I think you should focus more on understanding the benefits of your service to a customer,,,,,0.00,,Johnathan,,
+I would like someone to follow up with me as I am interested in this product,,,,,0.00,,Johnathan,,
+The girl in the red dress is killing everyone in the room with her presense.,,,,,0.00,,Johnathan,,
+Joe Black wants to know why do you care,,,,,0.00,,Johnathan,,
+Dana White wants to know why do you care,,,,,0.00,,Johnathan,,
+The changes have been bittersweet.  moving forward will be interesting,,,,,0.00,,Johnathan,,
+The changes have been bittersweet.  there will be opportunities going forward,,,,,0.00,,Johnathan,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
+,,,,,0.00,,,,
